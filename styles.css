@@ -1,0 +1,67 @@
+html{
+    overflow-x:hidden;
+}
+
+.logo1{
+    text-align: center;
+    height: 70px;
+}
+
+
+.navbar{
+    width: 100%; !important;
+}
+
+.first{
+    padding:3% 15%;
+    
+}
+
+/* .first-image{
+    margin-top: 25px;
+} */
+
+.rendering{
+    line-height: 10%;
+}
+
+.solar-panel-home{
+    padding: 3% 0;
+}
+
+body .body-color{
+    background-color:palegoldenrod;
+}
+
+.installation{
+    padding: 1% 10%;
+}
+
+.faq-1{
+    padding:0 14%;
+}
+
+.first-class{
+    height: 85px;
+    width: 100%;
+}
+
+.first-column{
+    height: 80px;
+    width: 100%;
+}
+
+.image-md{
+    background-color: red;
+    /* height: 300px; */
+}
+
+.wallet-img{
+    display: flex;
+    justify-content: center;    
+}
+
+.wallei{
+    width: 60px;
+    
+}
